@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on project ideas
 - 📫 How to reach me through my GitHub profile 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: You will get yo know later
+- ⚡ Fun fact: You will get to know later
 
 <!---
 Suhasbegade21/Suhasbegade21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

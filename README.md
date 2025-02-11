@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suhasbegade21
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA in C language
+- 🌱 I’m currently learning DSA in C language and C++
 - 💞️ I’m looking to collaborate on project ideas
 - 📫 How to reach me through my GitHub profile 
 - 😄 Pronouns: he/him/his

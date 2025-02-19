@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Suhasbegade21
+- 👋 Hi, I’m Suhas Begade
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA in C language and C++
 - 💞️ I’m looking to collaborate on project ideas

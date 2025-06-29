@@ -1,17 +1,27 @@
 # 💫 About Me:
 
-<h1 aligne="centre">👋 Hi, I’m Suhas Begade</h1>
-<br>
-👀 I’m interested in coding
-<br>
-🌱 I’m currently learning DSA in C language and C++
-<br>
-💞️ I’m looking to collaborate on project ideas
-<br>
-📫 How to reach me suhasbegade21@gmail.com
-<br>
-<br>⚡ Fun fact: You will get to know later
-<br>
+# 👋 Hi there, I'm Suhas Begade
+
+## 👨‍🎓 About Me
+I'm an **engineering student** passionate about **coding** and **data science**.  
+I’m always exploring new technologies and working to upgrade my skills in these fields.
+
+---
+
+## 📚 What I'm Learning
+- 🚀 **Data Structures and Algorithms (DSA)** in C++
+- 🎨 **Front-end Development** (HTML, CSS, JavaScript)
+- 🛢️ **Database Management** with SQL
+
+---
+
+## 📬 Get in Touch
+- 📧 Email: [suhasbegade21@gmail.com](mailto:suhasbegade21@gmail.com)
+
+---
+
+## 🤝 Let's Connect!
+Feel free to reach out for **collaborations**, **tech talks**, or just to say _hi_! 😊
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhasbegade21&label=Profile%20views&color=0e75b6&style=flat" alt="Suhasbegade21" /> </p>
 

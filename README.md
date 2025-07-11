@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 # 👋 Hi there, I'm Suhas Begade
 
 ## 👨‍🎓 About Me
@@ -9,7 +7,7 @@ I’m always exploring new technologies and working to upgrade my skills in thes
 ---
 
 ## 📚 What I'm Learning
-- 🚀 **Data Structures and Algorithms (DSA)** in C++
+- 🚀 **Data Structures and Algorithms (DSA)** in C++ , Java 
 - 🎨 **Front-end Development** (HTML, CSS, JavaScript)
 - 🛢️ **Database Management** with SQL
 

@@ -7,11 +7,17 @@ I’m always exploring new technologies and working to upgrade my skills in thes
 ---
 
 ## 📚 What I'm Learning
-- 🚀 **Data Structures and Algorithms (DSA)** in C++ , Java 
+- 🚀 **Data Structures and Algorithms (DSA)** in Java , C++
 - 🎨 **Front-end Development** (HTML, CSS, JavaScript)
 - 🛢️ **Database Management** with SQL
 
 ---
+<div align="center"> 
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  
+  <a href="[https://leetcode.com/its-nishant320/](https://leetcode.com/u/suhasbegade21/)" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
+</p>
 
 ## 📬 Get in Touch
 - 📧 Email: [suhasbegade21@gmail.com](mailto:suhasbegade21@gmail.com)
@@ -21,7 +27,7 @@ I’m always exploring new technologies and working to upgrade my skills in thes
 ## 🤝 Let's Connect!
 Feel free to reach out for **collaborations**, **tech talks**, or just to say _hi_! 😊
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Suhasbegade21&label=Profile%20views&color=0e75b6&style=flat" alt="Suhasbegade21" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Suhasbegade21&label=Profile%20views&color=0e75b6&style=flat" alt="Suhasbegade21" /> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/its.official.begade.suhas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhas_begade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suhas-begade) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/begade_suhas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhasbegade21@gmail.com) 
